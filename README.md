@@ -12,7 +12,7 @@ Exploring and building innovative Web3 solutions.
 
 🛠️ Previously:
 
-Worked with GoldenSparrow Token, contributing to blockchain-based advancements.
+Worked with Different Token, contributing to blockchain-based advancements.
 
 🔧 Technical Skills:
 
